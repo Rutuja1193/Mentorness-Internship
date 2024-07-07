@@ -12,8 +12,8 @@ Dataset Description:
 6. Low: The lowest price recorded for gold in the trading day.
 
 Project Objectives: 
-1. Time Series Analysis: - Explore historical trends and patterns in gold prices over the specified time period. - Identify seasonality, cyclicality, and any discernible long-term trends in the gold market.
-2. Advanced Modeling: - Develop predictive models to forecast future gold prices based on historical data. - Evaluate and compare the performance of different forecasting algorithms.
-3. Trading Strategy Development: - Formulate and backtest trading strategies based on the provided price and volume information. - Explore the feasibility of reverse trading strategies for profit maximization.
-4. Market Sentiment Analysis:  - Investigate the impact of market events on gold prices. - Assess marketsentiment and its influence on short-term and long-term price movements.
-5. Statistical Analysis: - Conductstatistical tests and analyses to gain insights into the characteristics of gold price movements. - Explore correlations with external factors and macroeconomic indicators.
+1. Time Series Analysis: Explore historical trends and patterns in gold prices over the specified time period. - Identify seasonality, cyclicality, and any discernible long-term trends in the gold market.
+2. Advanced Modeling: Develop predictive models to forecast future gold prices based on historical data. - Evaluate and compare the performance of different forecasting algorithms.
+3. Trading Strategy Development: Formulate and backtest trading strategies based on the provided price and volume information. - Explore the feasibility of reverse trading strategies for profit maximization.
+4. Market Sentiment Analysis:  Investigate the impact of market events on gold prices. - Assess marketsentiment and its influence on short-term and long-term price movements.
+5. Statistical Analysis: Conductstatistical tests and analyses to gain insights into the characteristics of gold price movements. - Explore correlations with external factors and macroeconomic indicators.
