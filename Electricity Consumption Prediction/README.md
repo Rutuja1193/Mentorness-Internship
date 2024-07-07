@@ -1,6 +1,7 @@
-**Electricity Consumption Prediction**
+# Electricity Consumption Prediction
 
 Problem Statement:
+
 This internship project is focused on leveraging Python for time series prediction of household electricity consumption. The dataset includes essential features such as date, time, global active power, global reactive power, voltage, global intensity, and sub-metering values. 
 The objective is to build robust time series forecasting models that can accurately predict future electricity consumption trends based on historical data. The insights derived from this analysis can empower households to optimize energy usage, plan efficiently, and contribute to sustainable energy practices.
 
